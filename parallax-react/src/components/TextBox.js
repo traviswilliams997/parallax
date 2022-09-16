@@ -4,7 +4,7 @@ const TextBox = () => {
     return (
         <div className = 'text-box'>
             <h3> First Class Ticket</h3>
-            <p> OK
+            <p> 
 
             </p>
         </div>
