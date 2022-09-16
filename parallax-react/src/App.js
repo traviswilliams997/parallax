@@ -1,8 +1,8 @@
-
+import ImageOne from "./components/ImageOne";
 function App() {
   return (
     <div>
-      <h1>Hello Devs!</h1>
+      <ImageOne />
      
     </div>
   );

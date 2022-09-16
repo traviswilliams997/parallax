@@ -3,7 +3,7 @@ import Nasa from '../img/nasa.jpg'
 
 
 const ImageOne = () => (
-    <Parallax bgImage={Nasa} strength={800}>
+    <Parallax className='image' bgImage={Nasa} strength={800}>
         <div className= 'content'>
             <span className = 'img-txt'>a trip to space </span>
         </div>
